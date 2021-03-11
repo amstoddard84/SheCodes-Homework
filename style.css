@@ -32,6 +32,7 @@ p {
 .content {
   display: block;
 }
+
 .homepage-link {
   color: var(--primary-color);
   text-align: center;
@@ -70,7 +71,8 @@ p {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
 }
-.primary-link {
+.primary-link,
+.project-link {
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
